@@ -9,9 +9,9 @@ En este proyecto hemos creado un formulario para crear y administrar el pedido e
 APP en Heroku: https://restaurant-app-reactjs.herokuapp.com
 
 CONTACTO:
-bradgomez52@outlook.com
+- bradgomez52@outlook.com
 
 DOCUMENTACION:
-NODE JS: https://nodejs.org/en/docs/
-REACT JS: https://es.reactjs.org/docs/getting-started.html
-ASP.NET: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0
+- NODE JS: https://nodejs.org/en/docs/
+- REACT JS: https://es.reactjs.org/docs/getting-started.html
+- ASP.NET: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0
